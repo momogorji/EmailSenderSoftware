@@ -1,0 +1,163 @@
+ENGLISH
+
+ProductName=MMG-SOFT Mail Sender
+ProductDescription=Send Group Email
+Vesrion=Version
+PublishDate=Publish Date
+CompanyTitle=MMG SOFT
+CompanyDescription=Farajahesh Shomal
+CompanySite=Company Site:
+ContactEmail=Contact Email:
+
+Content=Content
+
+Profile=Profile
+Subject=Subject
+
+
+
+
+txt_subject=Subject of e-mail
+txt_ContentBody=E-mail body
+chk_isHtml=if body is html check this,else uncheck
+
+Receipients=Receipient
+
+btn_ImortReceipient_Text=Excel
+btn_ImortTextReceipient_Text=Text File
+btn_MarkUnSend_text=Mark as UnSend
+btn_MarkSend_text=Mark as Send
+btn_MarkBock_text=Mark as Blocked
+clm_Status=Status
+clm_Email=E-Mail
+
+Sender=Sender
+FromAddress_text=From Address
+Displayname_text=Display name
+Replayto_text=Replay to
+Priority_text=Priority
+Delivery_text=Request a Delivery Receipt
+SSL_text=Use SSL connection
+
+Server_Text=SMTP server
+User_text=User name
+Password_text=Password
+Port_text=Port
+Sleep_text=Sleep interval
+Sleep_Unit=Second
+
+
+
+SendMail=Send Mail
+
+lb_sender_text=Sender:
+lb_Receipients_text=Receipients:
+lb_Content_text=Content:
+lb_sendTo_text=Send to
+lb_Reault_text=Resault
+btn_send_text=Send
+btn_cancel_text=Cancel
+str_send_complate=Send Complate
+
+frm_CustomHeader_text=Email custome headers
+
+
+
+wiz_p1_Tile=Open excel file
+wiz_p1_Description=Select excel file to continue
+wiz_p1_SelectFile=Select file
+
+
+wiz_p2_Title=Select sheet
+wiz_p2_Description=please select as sheet to import from
+wiz_p2_Selectsheet_text=Select as sheet
+
+wiz_p3_Title=Preview
+wiz_p3_Description=Preview data to import
+wiz_p3_importline=Import from line
+wiz_p3_emailclm=Email column
+
+wiz_p4_status_text=To Imort Date to Databasae Click Finish
+
+wiz_next=Next
+wiz_Back=Back
+wiz_cancel=Cancel
+wiz_finish=Finish
+
+wiz_title=Import From Excel file
+
+inp_box_text=Please Enter data
+inp_box_Formatter=Please Enter
+
+Disconnect=Internet connection not avalible
+
+inp_ContentProfile=Content Profile
+inp_Name_receipient=Name Of Recipients
+inp_receipients_profile=Receipients Profile
+dia_Delete=Do you want to delete
+str_AllReceiptsEmailsDelete=All receipts emails row whil be delete!
+str_receipient_delete_caption=Receipients Profile Delete
+del_emails=Do you want to delete selected emails
+del_emails_caption=Delete Email
+inp_email=Email Address
+str_invalid_email=Invalid Email Address
+str_enter_smtp_server=Enter SMTP Server
+wrn_Select_content=Please select content profile
+wrn_Select_receipients=Please select receipients profile
+wrn_select_sender=Please select sender profile
+
+inp_PlzEnter=Please Enter
+
+mn_sender=Sender
+mn_receipient=Receipients
+mn_content=Content
+mn_sendmail=Send Mail
+mn_about=About
+mn_product=Product
+mn_licence=licence
+
+mn_file=File
+bnt_LanguageOption=Langaue Option
+btn_exit=Exit Application
+
+nav=Navigation
+
+FName=Firs Name
+LName=Last Name
+Country=Country
+Province=Province
+City=City
+TellNumber=Phone Number
+Register=Register
+ReceiptInfo=sasa123
+lblDateTimeReceipt=DateTimeReceipt
+lblBranchCodelbl=BranchCode
+lblReceiptBank=ReceiptBank
+lblregisteredcode="registeredcode"
+btnactivecode=activecode
+lblcoust=price
+
+frmTextImport=Import Text File
+TextFile=Text File
+Split=Split character
+NewLine=Enter Key
+
+tip_add=New
+tip_Save=Save
+tip_edit=Edit
+tip_delete=Delete
+tip_Add_email=Add Email
+tip_delete_email=Delete Selected Emails
+tip_Imp_Exc=Import Excel File
+tip_Imp_Txt=Import Text File
+tip_UnSend=Set UnSend Status
+tip_Send=Set Send Status
+tip_Block=Set Blocked Status
+
+
+reg_ErroSendUserInfo=Error Sending User Infomration Email!
+reg_ErrSendUserAK=Error Sending User Activation Key!
+reg_AK=Activation Key
+reg_EnterInfo=Please Enter Information
+
+licenceactive=software is active in this computer

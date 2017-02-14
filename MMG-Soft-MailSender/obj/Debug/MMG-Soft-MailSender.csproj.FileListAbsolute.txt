@@ -1,0 +1,83 @@
+C:\Documents and Settings\A-R-I\My Documents\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\A-R-I\My Documents\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.frmMain.resources
+C:\Documents and Settings\A-R-I\My Documents\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.Properties.Resources.resources
+C:\Documents and Settings\A-R-I\My Documents\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.UserCtrl.SenderProfile.resources
+C:\Documents and Settings\A-R-I\My Documents\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG-Soft-MailSender.csproj.GenerateResource.Cache
+C:\Documents and Settings\A-R-I\My Documents\MMG-Soft-MailSender\MMG-Soft-MailSender\bin\Debug\MMG-Mail.mdb
+C:\Documents and Settings\A-R-I\My Documents\MMG-Soft-MailSender\MMG-Soft-MailSender\bin\Debug\MMG-Soft-MailSender.exe.config
+C:\Documents and Settings\A-R-I\My Documents\MMG-Soft-MailSender\MMG-Soft-MailSender\bin\Debug\MMG-Soft-MailSender.exe
+C:\Documents and Settings\A-R-I\My Documents\MMG-Soft-MailSender\MMG-Soft-MailSender\bin\Debug\MMG-Soft-MailSender.pdb
+C:\Documents and Settings\A-R-I\My Documents\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG-Soft-MailSender.exe
+C:\Documents and Settings\A-R-I\My Documents\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG-Soft-MailSender.pdb
+C:\Documents and Settings\A-R-I\My Documents\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.frmCustomHeader.resources
+C:\Documents and Settings\A-R-I\My Documents\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.frmInputText.resources
+E:\MMG-Soft-MailSender\MMG-Soft-MailSender\bin\Debug\MMG-Soft-MailSender.exe.config
+E:\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG-Soft-MailSender.exe
+E:\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG-Soft-MailSender.pdb
+E:\MMG-Soft-MailSender\MMG-Soft-MailSender\bin\Debug\MMG-Mail.mdb
+E:\MMG-Soft-MailSender\MMG-Soft-MailSender\bin\Debug\MMG-Soft-MailSender.exe
+E:\MMG-Soft-MailSender\MMG-Soft-MailSender\bin\Debug\MMG-Soft-MailSender.pdb
+E:\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\ResolveAssemblyReference.cache
+E:\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.frmCustomHeader.resources
+E:\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.frmInputText.resources
+E:\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.frmMain.resources
+E:\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.Properties.Resources.resources
+E:\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.UserCtrl.SenderProfile.resources
+E:\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG-Soft-MailSender.csproj.GenerateResource.Cache
+E:\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.UserCtrl.Recipients.resources
+E:\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.frmExcelImport.resources
+E:\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.UserCtrl.Content.resources
+E:\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.UserCtrl.SendMail.resources
+E:\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.UserCtrl.About.resources
+E:\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.UserCtrl.Product.resources
+E:\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.frmLanguageOption.resources
+E:\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.frmRegister.resources
+E:\MMG Mail\MMG-Soft-MailSender\MMG-Soft-MailSender\bin\Debug\MMG-Soft-MailSender.exe.config
+E:\MMG Mail\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG-Soft-MailSender.exe
+E:\MMG Mail\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG-Soft-MailSender.pdb
+E:\MMG Mail\MMG-Soft-MailSender\MMG-Soft-MailSender\bin\Debug\MMG-Mail.mdb
+E:\MMG Mail\MMG-Soft-MailSender\MMG-Soft-MailSender\bin\Debug\MMG-Soft-MailSender.exe
+E:\MMG Mail\MMG-Soft-MailSender\MMG-Soft-MailSender\bin\Debug\MMG-Soft-MailSender.pdb
+E:\MMG Mail\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\ResolveAssemblyReference.cache
+E:\MMG Mail\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.frmExcelImport.resources
+E:\MMG Mail\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.frmInputText.resources
+E:\MMG Mail\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.frmLanguageOption.resources
+E:\MMG Mail\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.frmMain.resources
+E:\MMG Mail\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.frmRegister.resources
+E:\MMG Mail\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.Properties.Resources.resources
+E:\MMG Mail\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.UserCtrl.About.resources
+E:\MMG Mail\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.UserCtrl.Content.resources
+E:\MMG Mail\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.UserCtrl.Product.resources
+E:\MMG Mail\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.UserCtrl.Recipients.resources
+E:\MMG Mail\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.UserCtrl.SenderProfile.resources
+E:\MMG Mail\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.UserCtrl.SendMail.resources
+E:\MMG Mail\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG-Soft-MailSender.csproj.GenerateResource.Cache
+E:\MMG Mail\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.frmImportText.resources
+E:\MMG Mail\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.frmSplash.resources
+H:\Mail Sender\90-04-14\MMG-Soft-MailSender\MMG-Soft-MailSender\bin\Debug\MMG-Soft-MailSender.exe.config
+H:\Mail Sender\90-04-14\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG-Soft-MailSender.exe
+H:\Mail Sender\90-04-14\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG-Soft-MailSender.pdb
+D:\MMG-Soft-MailSender\MMG-Soft-MailSender\bin\Debug\MMG-Mail.mdb
+D:\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\ResolveAssemblyReference.cache
+D:\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.frmExcelImport.resources
+D:\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.frmImportText.resources
+D:\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.frmInputText.resources
+D:\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.frmLanguageOption.resources
+D:\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.frmMain.resources
+D:\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.frmRegister.resources
+D:\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.frmSplash.resources
+D:\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.Properties.Resources.resources
+D:\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.UserCtrl.About.resources
+D:\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.UserCtrl.Content.resources
+D:\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.UserCtrl.Product.resources
+D:\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.UserCtrl.Recipients.resources
+D:\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.UserCtrl.SenderProfile.resources
+D:\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.UserCtrl.SendMail.resources
+D:\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG-Soft-MailSender.csproj.GenerateResource.Cache
+D:\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.frmlicence.resources
+D:\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMG_Soft_MailSender.UserCtrl.licence.resources
+D:\MMG-Soft-MailSender\MMG-Soft-MailSender\bin\Debug\MMGSOFTEmailsender.exe.config
+D:\MMG-Soft-MailSender\MMG-Soft-MailSender\bin\Debug\MMGSOFTEmailsender.exe
+D:\MMG-Soft-MailSender\MMG-Soft-MailSender\bin\Debug\MMGSOFTEmailsender.pdb
+D:\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMGSOFTEmailsender.exe
+D:\MMG-Soft-MailSender\MMG-Soft-MailSender\obj\Debug\MMGSOFTEmailsender.pdb

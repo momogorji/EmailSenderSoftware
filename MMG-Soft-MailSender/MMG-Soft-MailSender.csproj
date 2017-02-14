@@ -1,0 +1,361 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F936FF8D-095F-4CE6-89B3-5250A1D557F6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MMG_Soft_MailSender</RootNamespace>
+    <AssemblyName>MMGSOFTEmailsender</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ApplicationIcon>1309666287_email.ico</ApplicationIcon>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <PublishUrl>http://localhost/MMG-Soft-MailSender/</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar2, Version=8.1.0.6, Culture=neutral, PublicKeyToken=5fd520d36328f741" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class\clsENC.cs" />
+    <Compile Include="Class\clsHW.cs" />
+    <Compile Include="Class\clsLang.cs" />
+    <Compile Include="Class\clsPostEmail.cs" />
+    <Compile Include="Class\clsPublic.cs" />
+    <Compile Include="Class\clsRetrieveExcelSheet.cs" />
+    <Compile Include="Class\DataGridViewImageValueCell.cs" />
+    <Compile Include="Class\DataGridViewImageValueColumn.cs" />
+    <Compile Include="clsSendCenter.cs" />
+    <Compile Include="ds.cs">
+      <DependentUpon>ds.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ds.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ds.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="frmExcelImport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmExcelImport.Designer.cs">
+      <DependentUpon>frmExcelImport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmImportText.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmImportText.Designer.cs">
+      <DependentUpon>frmImportText.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInputText.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInputText.Designer.cs">
+      <DependentUpon>frmInputText.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLanguageOption.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLanguageOption.Designer.cs">
+      <DependentUpon>frmLanguageOption.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmlicence.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmlicence.Designer.cs">
+      <DependentUpon>frmlicence.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegister.Designer.cs">
+      <DependentUpon>frmRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSplash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSplash.Designer.cs">
+      <DependentUpon>frmSplash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmExcelImport.resx">
+      <DependentUpon>frmExcelImport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmImportText.resx">
+      <DependentUpon>frmImportText.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInputText.resx">
+      <DependentUpon>frmInputText.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLanguageOption.resx">
+      <DependentUpon>frmLanguageOption.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmlicence.resx">
+      <DependentUpon>frmlicence.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegister.resx">
+      <DependentUpon>frmRegister.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSplash.resx">
+      <DependentUpon>frmSplash.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserCtrl\About.resx">
+      <DependentUpon>About.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserCtrl\Content.resx">
+      <DependentUpon>Content.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserCtrl\licence.resx">
+      <DependentUpon>licence.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserCtrl\Product.resx">
+      <DependentUpon>Product.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserCtrl\Recipients.resx">
+      <DependentUpon>Recipients.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserCtrl\SenderProfile.resx">
+      <DependentUpon>SenderProfile.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserCtrl\SendMail.resx">
+      <DependentUpon>SendMail.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="ds.xsc">
+      <DependentUpon>ds.xsd</DependentUpon>
+    </None>
+    <None Include="ds.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ds.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ds.xss">
+      <DependentUpon>ds.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="UserCtrl\About.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserCtrl\About.Designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserCtrl\cmbPriority.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserCtrl\cmbPriority.Designer.cs">
+      <DependentUpon>cmbPriority.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserCtrl\Content.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserCtrl\Content.Designer.cs">
+      <DependentUpon>Content.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserCtrl\licence.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserCtrl\licence.Designer.cs">
+      <DependentUpon>licence.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserCtrl\Product.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserCtrl\Product.Designer.cs">
+      <DependentUpon>Product.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserCtrl\Recipients.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserCtrl\Recipients.Designer.cs">
+      <DependentUpon>Recipients.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserCtrl\SenderProfile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserCtrl\SenderProfile.Designer.cs">
+      <DependentUpon>SenderProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserCtrl\SendMail.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserCtrl\SendMail.Designer.cs">
+      <DependentUpon>SendMail.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="1309666198_email_forward.ico" />
+    <Content Include="1309666287_email.ico" />
+    <Content Include="MMG-Mail.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\1369389242_key.png" />
+    <None Include="Resources\1309667678_text-enriched.png" />
+    <None Include="Resources\1309241033_kpackage.png" />
+    <None Include="Resources\1309240987_kpackage.png" />
+    <None Include="Resources\1309240663_Globe.png" />
+    <None Include="Resources\1309240189_info-blog.png" />
+    <None Include="Resources\1309238988_Next.png" />
+    <None Include="Resources\1309239079_Previous1.png" />
+    <None Include="Resources\1309239079_Previous.png" />
+    <None Include="Resources\1309238852_Previous.png" />
+    <None Include="Resources\1309237517_netvibes.png" />
+    <None Include="Resources\1309236539_cross.png" />
+    <None Include="Resources\1309236473_Close.png" />
+    <None Include="Resources\1309167211_mark_as_read_16.png" />
+    <None Include="Resources\1309085617_flag_red.png" />
+    <None Include="Resources\1309085490_Bad mark.png" />
+    <None Include="Resources\1309084894_Flag2LeftRed.png" />
+    <None Include="Resources\1309077284_004.png" />
+    <None Include="Resources\1309075416_download.png" />
+    <None Include="Resources\1309075338_edit-notes.png" />
+    <None Include="Resources\1309075310_address-book.png" />
+    <None Include="Resources\1309075264_send-group.png" />
+    <None Include="Resources\1309075161_article 48.png" />
+    <None Include="Resources\1308998626_messagebox_warning.png" />
+    <None Include="Resources\1308998583_mail_send.png" />
+    <None Include="Resources\1308986488_folder_horizontal_open.png" />
+    <None Include="Resources\1308986224_Arzo Icons Icon 96 2.png" />
+    <None Include="Resources\1308986180_Microsoft Office 2007 Excel.png" />
+    <None Include="Resources\1308985619_page_white_excel.png" />
+    <None Include="Resources\1308984940_document_import.png" />
+    <None Include="Resources\1308980468_001_39.png" />
+    <None Include="Resources\1308980425_001_06.gif" />
+    <None Include="Resources\1308979161_disk.png" />
+    <None Include="Resources\1308978920_001_01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

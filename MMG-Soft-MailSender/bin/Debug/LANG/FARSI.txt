@@ -1,0 +1,159 @@
+﻿فارسي
+
+ProductName=MMG-SOFT Mail Sender
+ProductDescription=ارسال گروهي ايميل
+Vesrion=ويرايش
+PublishDate=تاريخ انتشار
+CompanyTitle=ام ام جي سافت
+CompanyDescription=شركت تحقيقات كاربردي و نرم افزاري فراجهش شمال
+CompanySite=وب سايت:
+ContactEmail=ايميل:
+
+Content=محتواي ايميل
+
+Profile=پروفايل
+Subject=موضوع
+
+txt_subject=موضوع ايميل
+txt_ContentBody=متن ايميل
+chk_isHtml=فرمت html
+
+Receipients=ليست گيرنده ايميل
+
+btn_ImortReceipient_Text=اکسل
+btn_ImortTextReceipient_Text=متني
+btn_MarkUnSend_text= فرستاده نشده
+btn_MarkSend_text= فرستاده شده
+btn_MarkBock_text=بلوکه شده
+clm_Status=وضعيت
+clm_Email=ايميل
+
+Sender=فرستنده
+FromAddress_text=از آدرس
+Displayname_text=نام نمايشي
+Replayto_text=ايميل پاسخ
+Priority_text=ارجحيت
+Delivery_text=درخواست رسيد از سرور گيرنده ايميل
+SSL_text=استفاده از اتصال امن
+
+Server_Text=سرور
+User_text=کاربر
+Password_text=رمز عبور
+Port_text=پورت
+Sleep_text=وقفه ارسال ايميل
+Sleep_Unit=ثانيه
+
+
+SendMail=ارسال ايميل
+
+lb_sender_text=فرستنده:
+lb_Receipients_text=گيرنده:
+lb_Content_text=محتوا:
+lb_sendTo_text=ارسال به
+lb_Reault_text=نتيجه
+btn_send_text=ارسال
+btn_cancel_text=انصراف
+str_send_complate=اتمام ارسال 
+
+frm_CustomHeader_text=هدر ايميل
+
+
+
+wiz_p1_Tile=بازکردن فايل اکسل
+wiz_p1_Description=براي ادامه فايل اکسل را انتخاب نماييد
+wiz_p1_SelectFile=بازکردن فايل
+
+wiz_p2_Title=انتخاب جدول اکسل
+wiz_p2_Description=لطفا جدول مورد نظر ر انتخاب نماييد
+wiz_p2_Selectsheet_text=انتخاب جدول
+
+wiz_p3_Title=پيش نمايش
+wiz_p3_Description=نمايش ليست ايميل ها
+wiz_p3_importline=شروع از رديف
+wiz_p3_emailclm=شماره ستون ايميل
+
+wiz_p4_status_text=براي انتقال ليست ايميل به برنامه دکمه پايان را بزنيد
+
+wiz_next=بعدي
+wiz_Back=قبلي
+wiz_cancel=لغو
+wiz_finish=پايان
+
+wiz_title=ورود اطلاعات از اکسل
+
+inp_box_text=لطفا مقدار مورد نظر ر ا وارد نماييد
+inp_box_Formatter=لطفا وارد کنيد 
+
+Disconnect=اتصال اينترنت قطع شده است
+
+inp_ContentProfile=پروفايل محتوا
+inp_Name_receipient=نام پروفايل گيرنده ايميل 
+inp_receipients_profile=پروفايل گيرنده ايميل
+dia_Delete=آيا مايليد حذف کنيد 
+str_AllReceiptsEmailsDelete=همه ايميل هاي مربوط به اين پروفايل حذف خواهد شد
+str_receipient_delete_caption=حذف پروفايل گيرنده ايميل
+del_emails=آيا مايليد ايميل هاي انتخاب شده را حذف نماييد
+del_emails_caption=حذف ايميل
+inp_email=آدرس ايميل
+str_invalid_email=آدرس ايميل اشتباه است
+str_enter_smtp_server=سرور ايميل را وارد نماييد
+wrn_Select_content=لطفا محتواي ارسال را انتخاب نماييد
+wrn_Select_receipients= لطفاپروفايل گيرنده ايميل را مشخص نماييد
+wrn_select_sender=لطفا ارسال کننده ايميل را تعيين نماييد
+
+inp_PlzEnter=لطفا وارد کنيد 
+
+mn_sender=فرستنده
+mn_receipient=ليست ارسال
+mn_content=محتوا
+mn_sendmail=ارسال
+mn_about=درباره
+mn_product=محصولات
+mn_licence=کلیدفعال سازی
+
+mn_file=فايل
+bnt_LanguageOption=انتخاب زبان
+btn_exit=خروج از برنامه
+
+nav=عمليات
+
+FName=نام
+LName=نام خانوادگي
+Country=کشور
+Province=استان
+City=شهر
+TellNumber=تلفن
+Register=ثبت نام
+ReceiptInfo=لطفا مبلغ مشخص شده را به شماره حساب ملی 0104444764007 بنام محمد محمدی گرجی یا شماره کارت 6037991083009872 واریز فرمائید و اطلاعات را در بالا ثبت کنید اکر کارت به کارت کردید در قسمت کد بانک  کارت به کارت  و در قسمت شماره فیش واریزی شماره کارت و شماره پیگیری را بنویسید.توجه کنید درخواست خرید شما به منزله قبول تمام قوانین  است پس لطفا قوانین را با دقت بخوانید
+lblregisteredcode=اگر برای کامپیوتر فعلی کد فعال سازی گرفتید می توانید کلیک زیر را کلیک کنید و کد فعال سازی را وارد کنید.دقت کنید کد فعال سازی را نکهداری کنید چون اگر این کد را گم کردید کد دوباره داده نمی شود و دوباره باید خرید کنید
+lblcoust=مبلغ واریزی
+
+btnactivecode=کد فعال سازی
+lblDateTimeReceipt=تاریخ و زمان واریز
+lblBranchCodelbl=کدشعبه
+lblReceiptBank=شماره فیش واریزی
+
+
+frmTextImport=ورود ايميل از فابل متني
+TextFile=فايل متني
+Split=جداکننده
+NewLine=کليد اينتر
+
+tip_add=جديد
+tip_Save=ذخيره
+tip_edit=ويرايش
+tip_delete=حذف
+tip_Add_email=ثبت ايميل جديد
+tip_delete_email=حذف ايميل هاي انتخابي
+tip_Imp_Exc=استخراج ايميل از فايل اکسل
+tip_Imp_Txt=استخراج ايميل از فايل متني
+tip_UnSend=وضعيت ايميل فرستاده نشده شود
+tip_Send=وضعيت ايميل فرستاده شده شود
+tip_Block=وضعيت ايميل بلوکه شود
+
+reg_ErroSendUserInfo=خطادر ارسال اطلاعات کاربر
+reg_ErrSendUserAK=خطا در ارسال شماره فعال سازي
+reg_AK=شماره فعال سازي
+reg_EnterInfo=لطفا اطلاعات را وارد نماييد
+
+licenceactive=کلید نرم افزار شما برای این کامپیوتر فعال می باشد

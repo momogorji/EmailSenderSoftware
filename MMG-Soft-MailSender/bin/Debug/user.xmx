@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <UserRegister>
+    <FName />
+    <LName />
+    <Country />
+    <Province />
+    <City />
+    <EMail />
+    <PhoneNumber />
+    <Key>+Y6wnJhq+jF27CtJUWoqEUERlK2MkaW/</Key>
+  </UserRegister>
+</DocumentElement>

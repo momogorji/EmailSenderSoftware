@@ -1,0 +1,356 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="1308986488_folder_horizontal_open" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1308986488_folder_horizontal_open.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1309075338_edit-notes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1309075338_edit-notes.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1308980468_001_39" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1308980468_001_39.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1309238988_Next" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1309238988_Next.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mail_send" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1308998583_mail_send.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1308986224_Arzo Icons Icon 96 2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1308986224_Arzo Icons Icon 96 2.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1309236473_Close" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1309236473_Close.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1309240663_Globe" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1309240663_Globe.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1309075161_article 48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1309075161_article 48.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1309084894_Flag2LeftRed" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1309084894_Flag2LeftRed.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1309237517_netvibes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1309237517_netvibes.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1309075416_download" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1309075416_download.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1309239079_Previous1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1309239079_Previous1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1309240189_info-blog" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1309240189_info-blog.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1308980425_001_06" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1308980425_001_06.gif;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Error_send" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1308998626_messagebox_warning.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1309240987_kpackage" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1309240987_kpackage.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1309238852_Previous" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1309238852_Previous.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1309075310_address-book" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1309075310_address-book.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1309167211_mark_as_read_16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1309167211_mark_as_read_16.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Blocked" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1309085617_flag_red.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1308985619_page_white_excel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1308985619_page_white_excel.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1309075264_send-group" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1309075264_send-group.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1308984940_document_import" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1308984940_document_import.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1309241033_kpackage" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1309241033_kpackage.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mail_new" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1309077284_004.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1308986180_Microsoft Office 2007 Excel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1308986180_Microsoft Office 2007 Excel.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1309239079_Previous" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1309239079_Previous.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1309236539_cross" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1309236539_cross.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1308978920_001_01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1308978920_001_01.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1308979161_disk" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1308979161_disk.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1309667678_text-enriched" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1309667678_text-enriched.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CONTENT_ENGLISH" xml:space="preserve">
+    <value>In this section we prepare the content of email
+
+to insert new content click new button and enter content profile name for example Ad-01
+
+then enter subject of email
+and enter email body
+
+if you email format is html check then html format check box
+
+for finish click save button</value>
+  </data>
+  <data name="CONTENT_PERSIAN" xml:space="preserve">
+    <value>در اين بخش  محتواي ايميل ارسالي را آماده ميکنيم
+
+براي ثبت يک محتواي ايميل دکمه جديد را بزنيد و نام پروفايل را وارد نماييد مثلا ايميل تبليغاتي شماره 1
+
+سپس در قسمت موضوع، موضوع ايميل را وارد نماييد
+
+متن ايميل را نيز وارد نماييد
+
+در صورتيکه متن ايميل شما بصورت html است گزينه فرمت html را تيک بزنيد
+
+درپايان دکمه ذخيره را بزنيد</value>
+  </data>
+  <data name="RECEIPIENTS_ENGLISH" xml:space="preserve">
+    <value>Recipient E-mail 
+Click the new button to insert a new profile and enter the recipient's e-mail 
+
+To enter the mailing list you can use the following methods: 
+
+Manual method: 
+Click inser new mail and enter email address
+
+The Excel file:
+Click import excel button to show import excel file wizard
+
+The Text file:
+You can also enter the mailing list from a text file,
+click import text button to show import text form
+
+Delete e-mail:
+To remove one or more e-mail select  them and click delete email button
+
+Send:
+To change status of selected emails to send
+
+Unsend:
+To change status of selected emails to unsend
+
+Blocked:
+
+To change status of selected emails to blocked</value>
+  </data>
+  <data name="RECEIPIENTS_PERSIAN" xml:space="preserve">
+    <value>گيرنده ايميل
+ليست گيرنده هاي ايميل را در اين بخش وارد  ميکنيم
+براي شروع دکمه جديد را بزنيد و نام پروفايل گيرنده ايميل را وارد نماييد
+
+براي وارد کردن ليست ايميل ميتوانيد از سه روش زير استفاده نماييد:
+
+روش دستي:
+دکمه ثبت ايميل جديد را بزنيد و  ايميل را وارد نماييد
+
+روش فايل اکسل:
+شما ميتوانيد ليست ايميل ها را از يک فايل اکسل به برنامه وارد نماييد براي اينکار دکمه اکسل را بزنيد تا فرم استخراج ايميل از فايل اکسل نشان  داده شود 
+
+
+روش فايل متني:
+شما ميتوانيد ليست ايميل ها را از يک فايل متني نيز وارد نماييد
+براي اينکار دکمه متني را بزنيد تا فرم استخراج ايميل از فايل متني نشان داده شود
+
+حذف ايميل:
+براي حذف يک يا چند ايميل آنها را انتخاب نماييد و دکمه حذف ايميل را بزنيد
+
+فرستاده شده:
+براي تغيير وضعيت يک يا چند ايميل به وضعيت فرستاده شده ايميلهاي مورد نظر را انتخاب  نماييد و اين دکمه را بزنيد
+
+فرستاده نشده:
+براي تغيير وضعيت ايميل به وضعيت فرستاده نشده از اين دکمه استفاده نماييد
+
+بلوکه شده:
+درصورتيکه وضعيت ايميلي را بلوکه نماييد هنگام ارسال ايميل از آن ايميل صرف نظر ميشود</value>
+  </data>
+  <data name="SENDER_ENGLISH" xml:space="preserve">
+    <value>Sender of email
+
+Method 1: Public email providers such as yahoo,gmail
+
+click new button and enter name of profile for example sample@gmail.com
+
+in display name enter the name that want to display in sender of email in user email
+in replay email,enter email that you want to user replay whit
+check Request a delivery if you want disposition notification
+check Use SSL connection
+
+enetr email server for example server of gmail is smpt.gmail.com 
+enter email as user name
+enter email password
+
+enter server port number for example port number for gmail is 587
+enter sleep interval for delay after send each email
+
+Method 2: Private email provider
+
+Record data as above,and uncheck "use ssl connection"</value>
+  </data>
+  <data name="SENDER_PERSIAN" xml:space="preserve">
+    <value>فرستنده ايميل
+براي شروع ميبايست ابتدا ايميل فرستنده را تنظيم نماييد
+روش اول:استفاده از ايميل هاي مجاني مثل گوگل
+براي اينکار ابتدا دکمه جديد را بزنيد ويک نام در پنجره اي که نشان دا ده ميشود وارد نماييد و دکمه قبول را بزنيد
+ در قسمت  از آدرس، ايميل فرستنده را وارد نماييد مثلا  sample@gmail.com
+
+درقسمت نام نمايشي ، نامي که ميخواهيد در قسمت فرستنده ايميل نشان داده شود را وارد نماييد
+
+در قسمت ايميل پاسخ، ايميلي که ميخواهيد گيرنده ايميل براي پاسخ استفاده کند را وارد نماييد
+
+درخواست رسيد از سرور جهت تاييد ارسال ايميل يک ايميل به عنوان تاييد براي شما ميفرستد
+
+در صورتيکه از سرويس هايي مثل جي ميل استفاده ميکنيد استفاده از اتصال امن را تيک بزنيد
+
+ نام سرور ايميل را وارد نماييد براي جي ميل smpt.gmail.com را وارد نماييد
+
+ايميل فرستنده را در قيمت کاربر وارد نماييد
+
+رمز ايميل را در قسمت رمز عبور وارد نماييد
+
+درقسمت پورت،شماره پورت را وارد نماييد براي جي ميل 587 را وارد نماييد
+
+وقفه ارسال براي شناسايي نشدن ايميل به عنوان اسپم بکار ميرود
+
+روش دوم:استفاده از ايميل هاي اختصاصي
+
+مانند مراحل بالا اطلاعات را ثبت نماييد فقط در قسمت شماره پورت ميبايست شماره پورت سرور ايميل خورد را وارد نماييد
+و استفاده از اتصال امن را علامت نزنيد
+
+بعد از ثبت اين اطلاعات دکمه ذخيره را بزنيد</value>
+  </data>
+</root>
